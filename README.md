@@ -41,3 +41,5 @@ This repository serves as:
 ---
 
 *Created and maintained by [Systomaly](https://systomaly.substack.com). Contributions, forks, or signal-boosts welcome.*
+
+Licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) — share with credit, no commercial use.
